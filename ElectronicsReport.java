@@ -20,7 +20,7 @@ public class ElectronicsReport{
 
     System.out.println("GAMING CONSOLE REPORT");
     System.out.println("---------------------");
-    System.out.println("CITY PS5 XBOX SWITCH TOTAL");
+    System.out.println("CITY\t\tPS5\tXBOX\tSWITCH\tTOTAL");
 
     int[] totals = new int[(cities.length)];
         int highestTotal = 0;
