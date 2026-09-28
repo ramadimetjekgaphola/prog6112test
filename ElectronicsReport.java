@@ -5,12 +5,14 @@
  *
  * @author Student
  */
+package com.mycompany.electronicsreport;
+import java.util.*;
 public class ElectronicsReport{
 
     public static void main(String[] args) {
     
  
-    String[] cities = {"CAPE TOWN,PORT ELIZABETH,PRETORIA"};
+    String[] cities = {"CAPE TOWN","PORT ELIZABETH","PRETORIA"};
 
     int[][] sales = {{1000,2000,3000},
                     {2000,3000,4000},
