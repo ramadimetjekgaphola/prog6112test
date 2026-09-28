@@ -17,9 +17,9 @@ public class ElectronicsReport{
     int[][] sales = {{1000,2000,3000},
                     {2000,3000,4000},
                     {1500,1100,1200}};
-
+     System.out.println("------------------------");
     System.out.println("GAMING CONSOLE REPORT");
-    System.out.println("---------------------");
+    System.out.println("-------------------------");
     System.out.println("CITY\t\tPS5\tXBOX\tSWITCH\tTOTAL");
 
     int[] totals = new int[(cities.length)];
